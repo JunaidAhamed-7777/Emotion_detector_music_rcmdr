@@ -66,7 +66,8 @@ Emotion_detector_music_rcmdr
 ├── app.py
 ├── emotion.npy
 ├── labels.npy
-└── model.h5
+├── model.h5
+└── requirements.txt
 ```
 
 ---
