@@ -21,7 +21,8 @@ Built using:
 
 ---
 <img width="1244" height="641" alt="Screenshot 2026-06-02 152631" src="https://github.com/user-attachments/assets/591becdb-3115-458b-8534-1e166bc6294a" />
-Kinda cool, right? : )
+- Kinda cool, right? :)
+
 ## Features
 
 - Real-time webcam emotion detection
